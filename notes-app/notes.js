@@ -1,7 +1,7 @@
 console.log('notes.js')
 
 const getNotes = function(){
-    return('Success')
+    return('Error')
 }
 
 module.exports = getNotes
